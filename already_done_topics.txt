@@ -1,0 +1,14 @@
+Why Woodpeckers Never Get Concussions Hammering Trees
+- **1. Title:** Why Woodpeckers Never Get Concussions Hammering Trees
+- **2. Type:** Curiosidad
+- **3. Estimated duration:** 28 seconds
+- **4. Hook:** "If you slammed your head into an oak tree twenty times a second at four hundred Gs, your brain would be crushed—yet a woodpecker's skull has zero shock absorbers inside."
+- **5. Mechanism:** High-speed biomechanics research proved that a woodpecker's skull is actually a stiff, non-cushioning hammer (since shock absorption would waste kinetic drilling energy); the bird avoids concussion because of scaling physics—its tiny, tightly packed brain has a seven-times shorter length than a human's, keeping intracranial pressure per unit area less than half the threshold needed for brain injury.
+- **6. The ¡pum! moment:** Side-by-side impact pressure gauges revealing that while a soft foam-cushioned beak bounces uselessly off the bark, the stiff skull plus miniature brain geometry keeps internal pressure three times below the danger line even at 400 Gs—letting the bird chisel solid wood all day.
+- **7. Visual potential:**
+  - A cartoon woodpecker wearing a squishy foam football helmet trying to peck a tree trunk, only to bounce backward without leaving a dent because the cushion steals all the punch.
+  - X-ray view of the bird's skull where the beak and brain decelerate together as one rigid hammer, accompanied by a wrap-around hyoid bone sling stabilizing the neck.
+  - Two transparent fluid-filled jars slamming to a halt—a large human-sized jar sloshing violently with red high-pressure spikes at the front wall, next to a tiny tightly filled woodpecker jar where the short fluid column barely builds a ripple of pressure.
+- **8. Fact status:** **Documented biomechanics that busts a famous science myth.** For decades, popular science claimed woodpecker skulls and spongy bones acted as shock-absorbing helmets. A landmark 2022 study in *Current Biology* by Sam Van Wassenbergh et al. proved via high-speed video and biomechanical modeling that the skull does *not* absorb shock (which would impair pecking efficiency); instead, small brain scaling lowers intracranial pressure below concussion thresholds.
+  - *Sources:* [Ars Technica — New research into why woodpeckers don't get concussions busts a popular myth (Van Wassenbergh et al., Current Biology 2022)](https://arstechnica.com/science/2022/07/study-woodpeckers-heads-behave-more-like-hammers-than-shock-absorbers/); [Smithsonian Magazine — Woodpeckers Don't Have Shock-Absorbing Skulls](https://www.smithsonianmag.com/smart-news/woodpecker-skulls-dont-absorb-shock-like-previously-thought-180980426/)
+---
