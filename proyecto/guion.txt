@@ -1,9 +1,0 @@
-Si alguien abre otro grifo, esta ducha intenta evitar un cambio brusco de temperatura.
-
-Al principio, mezclamos agua fría y caliente. Pero si cambia el suministro, la mezcla puede calentarse demasiado.
-
-Entonces entra en acción una cápsula con cera. Cuando el agua se calienta, la cera se expande y empuja una válvula. Esta reduce el paso de agua caliente y ajusta la mezcla.
-
-¿Y si el agua se enfría? La cera se contrae y la válvula se mueve en sentido contrario.
-
-Sin electricidad y sin tocar el mando: ¡pum! La ducha recupera la temperatura elegida.
