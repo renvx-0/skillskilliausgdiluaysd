@@ -1,0 +1,9 @@
+node_modules/
+frames/
+music.wav
+sfx.wav
+mix_raw.wav
+stills/a/
+stills/b/
+
+out/render-*.log
